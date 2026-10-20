@@ -1,5 +1,7 @@
 # Supervised UMAP in Python
 
+[![Python CI](https://github.com/izzydi/supervised-umap-python/actions/workflows/ci.yml/badge.svg)](https://github.com/izzydi/supervised-umap-python/actions/workflows/ci.yml)
+
 A dimensionality-reduction project using **supervised UMAP** to learn and visualize low-dimensional structure in high-dimensional wave-function data.
 
 ## Primary workflow
